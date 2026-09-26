@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "notes": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "./notes"
+      ],
+      "env": {}
+    }
+  }
+}
